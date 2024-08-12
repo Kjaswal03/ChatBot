@@ -12,8 +12,8 @@
     "react": "^18",
     "react-dom": "^18",
     "next": "14.2.5",
-    "@mui/material": "^5.11.0",  
-    "@google/generative-ai": "^1.0.0"
+    "@google/generative-ai": "^0.16.0",
+    "@mui/material": "^5.16.7"
   },
   "devDependencies": {
     "eslint": "^8",
